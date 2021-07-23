@@ -1,6 +1,6 @@
 # Simple Pomodoro project with python
 
-You can read the post that explains the code [here](https://jhonatandasilva.comb/published/1627031260)
+You can read the post that explains the code [here](https://jhonatandasilva.com/published/1627031260)
 
 ## Requirements 
 
